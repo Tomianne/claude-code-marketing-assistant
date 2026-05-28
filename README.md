@@ -69,4 +69,6 @@ The assistant reads these files at the start of every task. No need to re-run se
 
 ---
 
+**GitHub:** https://github.com/Tomianne/claude-code-marketing-assistant
+
 Built by Hannah Tomi Ajiboye | [AI with Hannah](https://youtube.com/@AIwithHannah)
